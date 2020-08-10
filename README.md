@@ -1,7 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://statuscorona.herokuapp.com/"><img alt="Website" src="https://img.shields.io/website?url=https://statuscorona.herokuapp.com/"></a>
 <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/rdp77/corona/statuscorona">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rdp77/corona">
